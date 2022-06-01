@@ -1,0 +1,30 @@
+#vhod{
+	text-align: right;
+	font-size: 20px;
+  }
+  body{
+	  background-color: #E9967A;
+  }
+
+  #main-aside-wrapper {
+	  background-color: #B22222;
+	}
+
+
+	#cont {
+		padding: 15px;
+		text-align: center;
+	  background-color: #C71585;
+	  width: 60rem;
+	}
+
+
+	p {
+	  font-size: 20px;
+	  font-weight: bolder;
+	}
+
+	footer{
+		background-color: #FFB6C1;
+		height: 20px;
+	}
